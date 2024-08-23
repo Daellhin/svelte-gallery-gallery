@@ -7,7 +7,8 @@
 	<li>
 		<h2 class="menu-title">Galleries</h2>
 		<ul>
-			<li><a href="/svelte-gallery">svelte-gallery</a></li>
+			<li><a class="capitalize" href="/svelte-gallery">svelte-gallery</a></li>
+			<li><a class="capitalize" href="/svelte-bricks">svelte-bricks</a></li>
 		</ul>
 	</li>
 </ul>
