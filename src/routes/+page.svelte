@@ -9,6 +9,7 @@
 		<ul>
 			<li><a class="capitalize" href="/svelte-gallery">svelte-gallery</a></li>
 			<li><a class="capitalize" href="/svelte-bricks">svelte-bricks</a></li>
+			<li><a class="capitalize" href="/lightgallery">lightgallery</a></li>
 		</ul>
 	</li>
 </ul>
