@@ -61,6 +61,8 @@
 		})
 	}
 </script>
+<svelte:window bind:innerWidth />
+
 
 <h1 class="text-4xl font-semibold capitalize">{packageName}</h1>
 <div class="breadcrumbs text-sm">

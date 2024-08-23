@@ -58,5 +58,6 @@
 		class="range"
 		title={numberOfImages.toString()}
 	/>
+	<!-- Gallery code -->
 	<Gallery {images} />
 </div>
